@@ -1,5 +1,4 @@
-name: Create a comment on new issues in github
-
+name: Create a comment on new issues in github.
 on:
   issues:
     types: [opened]
